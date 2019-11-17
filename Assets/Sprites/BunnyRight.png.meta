@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: a2901dd75bd564e41a9fdc93691fe4c9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8203156382142459256
+    second: bunny_sheet_small_0
+  - first:
+      213: 143540564714700434
+    second: bunny_sheet_small_1
+  - first:
+      213: 6035379794100961464
+    second: bunny_sheet_small_2
+  - first:
+      213: 562660959009927419
+    second: bunny_sheet_small_3
+  - first:
+      213: -8106020500641366943
+    second: bunny_sheet_small_4
+  - first:
+      213: -59824987623830423
+    second: bunny_sheet_small_5
+  - first:
+      213: -7023404515657799477
+    second: bunny_sheet_small_6
+  - first:
+      213: -2020752382104895469
+    second: bunny_sheet_small_7
+  - first:
+      213: -2455612071183258511
+    second: bunny_sheet_small_8
+  - first:
+      213: -1570454134659421587
+    second: bunny_sheet_small_9
+  - first:
+      213: 1223732101813534935
+    second: bunny_sheet_small_10
+  - first:
+      213: 4019358811234045447
+    second: bunny_sheet_small_11
+  - first:
+      213: 9001791097790678340
+    second: bunny_sheet_small_12
+  - first:
+      213: -2720574764296501739
+    second: bunny_sheet_small_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bunny_sheet_small_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 102
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b771973c2132f4ee3bfbdfb0f44e4614
+      internalID: -8203156382142459256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_1
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 102
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edbcb25e399e7489a8972184c5fd6059
+      internalID: 143540564714700434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 102
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1ad62bfb90d44f13b9824d49e1ea33f
+      internalID: 6035379794100961464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_3
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 101
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c1221b4149d244c39170646439505ba
+      internalID: 562660959009927419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_4
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 102
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04572145f756f45d99cb7aa8b0d031e6
+      internalID: -8106020500641366943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_5
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 101
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfccf96fc1612456f8cef64783caf517
+      internalID: -59824987623830423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_6
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 102
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391e4f20d2abf4f41ab137b7c1372109
+      internalID: -7023404515657799477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_7
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 102
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faffe7809d554513aa016ee88ab98aa
+      internalID: -2020752382104895469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_8
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 101
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8953e48c72507402cb687c60836d73cb
+      internalID: -2455612071183258511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_9
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 21
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953a1629856034a138e1b8e432baeb90
+      internalID: -1570454134659421587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_10
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 20
+        width: 61
+        height: 77
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bda3e78e67c44cdaaf4d03a98e7f2ab
+      internalID: 1223732101813534935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_11
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 20
+        width: 63
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6063d635f6cbf476aa970815e5f75b54
+      internalID: 4019358811234045447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_12
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 21
+        width: 71
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69939ee5cad7c4dbc95139a4171e6555
+      internalID: 9001791097790678340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: bunny_sheet_small_13
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 21
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2ebe618d2ddc4b7ca3f90cd2e13cff9
+      internalID: -2720574764296501739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3a276a5fe67b9446abb07e8213c6f4e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Block
+  - Bunny
+  - Magnet
+  - Held
+  - Fance
+  - Weight
+  - Base
+  - Glue
+  - BluePrint
+  - Planeta
+  - UFO
+  - BPCamera
+  - Ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Background
+  - Magnetic
+  - Pickup
+  - Magnet
+  - HeldBlock
+  - Snapper
+  - Crane
+  - Base
+  - Glue
+  - UFO
+  - BluePrint
+  - Bunny
+  - RobotArm
+  - Cart
+  - RobotTool
+  - DisabledRobot
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 585836959
+    locked: 1
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Foreground
+    uniqueID: 2136972177
+    locked: 0

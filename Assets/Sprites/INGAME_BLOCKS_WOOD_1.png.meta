@@ -1,0 +1,701 @@
+fileFormatVersion: 2
+guid: f5e1b2f3a1d8f40f99fdc2cabd4bc30b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3543856817254201690
+    second: INGAME_BLOCKS_WOOD_1_0
+  - first:
+      213: -3482288861152408586
+    second: INGAME_BLOCKS_WOOD_1_1
+  - first:
+      213: -191837887100197485
+    second: INGAME_BLOCKS_WOOD_1_2
+  - first:
+      213: 8970685627612412333
+    second: INGAME_BLOCKS_WOOD_1_3
+  - first:
+      213: 3389228240422906820
+    second: INGAME_BLOCKS_WOOD_1_4
+  - first:
+      213: -4935628489368427821
+    second: INGAME_BLOCKS_WOOD_1_5
+  - first:
+      213: -9108913935809586296
+    second: INGAME_BLOCKS_WOOD_1_6
+  - first:
+      213: -3795950608881840294
+    second: INGAME_BLOCKS_WOOD_1_7
+  - first:
+      213: -350522450131975033
+    second: INGAME_BLOCKS_WOOD_1_8
+  - first:
+      213: -5954481056768778290
+    second: INGAME_BLOCKS_WOOD_1_9
+  - first:
+      213: -2610749872310273376
+    second: INGAME_BLOCKS_WOOD_1_10
+  - first:
+      213: -9085904267289084503
+    second: INGAME_BLOCKS_WOOD_1_11
+  - first:
+      213: -1828319675677377991
+    second: INGAME_BLOCKS_WOOD_1_12
+  - first:
+      213: -5431204047405079114
+    second: INGAME_BLOCKS_WOOD_1_13
+  - first:
+      213: -5764727147927901397
+    second: INGAME_BLOCKS_WOOD_1_14
+  - first:
+      213: -5044290520144563893
+    second: INGAME_BLOCKS_WOOD_1_15
+  - first:
+      213: 4990470145063583738
+    second: INGAME_BLOCKS_WOOD_1_16
+  - first:
+      213: -7591551951511489876
+    second: INGAME_BLOCKS_WOOD_1_17
+  - first:
+      213: -6399369276047324315
+    second: INGAME_BLOCKS_WOOD_1_18
+  - first:
+      213: -8791820844650887955
+    second: INGAME_BLOCKS_WOOD_1_19
+  - first:
+      213: -6605085975119873712
+    second: INGAME_BLOCKS_WOOD_1_20
+  - first:
+      213: 2175808260472433924
+    second: INGAME_BLOCKS_WOOD_1_21
+  - first:
+      213: -2782412141673362092
+    second: INGAME_BLOCKS_WOOD_1_22
+  - first:
+      213: -3881737114258056240
+    second: INGAME_BLOCKS_WOOD_1_23
+  - first:
+      213: 8020448524527427157
+    second: INGAME_BLOCKS_WOOD_1_24
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 81
+        width: 84
+        height: 336
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8020ad9656b3041348ee97d3d742460e
+      internalID: 3543856817254201690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_1
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 333
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 834e4a270a91447c3895a3f2d05cb1a1
+      internalID: -3482288861152408586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_2
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 333
+        width: 83
+        height: 83
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b77035799cd7c43aaad594cb602c4e8f
+      internalID: -191837887100197485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_3
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 376
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1d333e37c5bd41e89bf7b768eee38c9
+      internalID: 8970685627612412333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_4
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 333
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 263978c255e64441496a090a546ea1a9
+      internalID: 3389228240422906820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_5
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 251
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0d1f754762964473958a83c76b24f21
+      internalID: -4935628489368427821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_6
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 212
+        width: 86
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd17e13cd46cb4530b9ee0d80ddea041
+      internalID: -9108913935809586296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_7
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 257
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de29c576726c64b9cb70cd057391b154
+      internalID: -3795950608881840294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_8
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 192
+        width: 203
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed53221bd7ec644c9beebbe444895fe1
+      internalID: -350522450131975033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_9
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 2
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10c0e0464b37f4ac58ecc60b41da8cf3
+      internalID: -5954481056768778290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_10
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 313
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063116d0b67cd4de79caa47bc224d564
+      internalID: -2610749872310273376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_11
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 88
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611be8b3518364df1859ccdfa2d3801a
+      internalID: -9085904267289084503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_12
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 82
+        width: 84
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff834f4ba95a4173bfa9ad918e80e01
+      internalID: -1828319675677377991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_13
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 214
+        width: 40
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d00fb789751240b2b7fff6c56190811
+      internalID: -5431204047405079114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_14
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 127
+        width: 205
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b409a696d1fc44bd90a3eaa26ec40ae
+      internalID: -5764727147927901397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_15
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 11
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebda16417db9e44d9bb5f05f026ae95d
+      internalID: -5044290520144563893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_16
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 83
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dde9ebed9643742fba0d49aa3011c494
+      internalID: 4990470145063583738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_17
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 83
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17b231ac080ad4116907cda617322f0f
+      internalID: -7591551951511489876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_18
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 0
+        width: 80
+        height: 81
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4238a587a20424f22bb6205dfbcdcf02
+      internalID: -6399369276047324315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 61
+        width: 169
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a1555a83e0a4a438b35b72489518e9
+      internalID: -8791820844650887955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_20
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 40
+        width: 41
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28c480b03dbe64bbfafcdd5c14b29d5f
+      internalID: -6605085975119873712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 39
+        width: 84
+        height: 21
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b34733fb3626488b885a6d6ccc2e62b
+      internalID: 2175808260472433924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_22
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 16
+        width: 83
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9c6d56f8571c42e0aa5bcc9633bfebf
+      internalID: -2782412141673362092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_23
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 16
+        width: 84
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 942b6228ab3634eb6acfdaee7c0e5dca
+      internalID: -3881737114258056240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: INGAME_BLOCKS_WOOD_1_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 334
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0e397902151044e480dc26c683e43a9
+      internalID: 8020448524527427157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8251e32bb0c32434cb50f5e3147581c3
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

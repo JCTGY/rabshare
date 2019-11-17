@@ -1,0 +1,437 @@
+fileFormatVersion: 2
+guid: 2f68e723c06d8459b825771defaa2068
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7180936043399536374
+    second: BunnyLeft_0
+  - first:
+      213: 4535895200776081199
+    second: BunnyLeft_1
+  - first:
+      213: -2091946720289149133
+    second: BunnyLeft_2
+  - first:
+      213: 1777120053843369422
+    second: BunnyLeft_3
+  - first:
+      213: -2453991113076231528
+    second: BunnyLeft_4
+  - first:
+      213: 5247062705261419824
+    second: BunnyLeft_5
+  - first:
+      213: 7998124057772738677
+    second: BunnyLeft_6
+  - first:
+      213: 2709216017560131594
+    second: BunnyLeft_7
+  - first:
+      213: 1637118219317750123
+    second: BunnyLeft_8
+  - first:
+      213: -6600685707777054297
+    second: BunnyLeft_9
+  - first:
+      213: -7039822794252126680
+    second: BunnyLeft_10
+  - first:
+      213: -5426959107879386416
+    second: BunnyLeft_11
+  - first:
+      213: 7855894408598813273
+    second: BunnyLeft_12
+  - first:
+      213: -6891970254747964345
+    second: BunnyLeft_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BunnyLeft_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 101
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44e1aa1b0ea8b4a978f40af5c786d2ce
+      internalID: -7180936043399536374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 102
+        width: 61
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f512fb0e59a4145af871946ecb7d5da4
+      internalID: 4535895200776081199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_2
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 102
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3394cd34a6e1b4f77826c19ff84eb2d2
+      internalID: -2091946720289149133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_3
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 101
+        width: 65
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe03e7c3811b7405ea6cb753d7283239
+      internalID: 1777120053843369422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_4
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 102
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaa64943a3eb74b029d64dd8702aa8d2
+      internalID: -2453991113076231528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_5
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 101
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 813e7efd6464541b0bad1171ae809207
+      internalID: 5247062705261419824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_6
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 102
+        width: 62
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebf04ad05280b44978b46873d132c65f
+      internalID: 7998124057772738677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_7
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 102
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849582dc9c7d2462586871c4be2ecad5
+      internalID: 2709216017560131594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_8
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 102
+        width: 63
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a24318f49a7b544b98276d12587e91cb
+      internalID: 1637118219317750123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_9
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 21
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e069d980901f84430b88ce09f7167ff0
+      internalID: -6600685707777054297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_10
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 20
+        width: 71
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c2bf2fb135fb467388ce04909020f53
+      internalID: -7039822794252126680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_11
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 18
+        width: 63
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 623ea662742bc45d0aaab174e5ab72a2
+      internalID: -5426959107879386416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_12
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 19
+        width: 61
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b122f517a1840a58d7e9bd39516e54
+      internalID: 7855894408598813273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BunnyLeft_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 21
+        width: 60
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425eee3a9931741169114be52a18e489
+      internalID: -6891970254747964345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b52ca450eba4240e1b6612eaa597953c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

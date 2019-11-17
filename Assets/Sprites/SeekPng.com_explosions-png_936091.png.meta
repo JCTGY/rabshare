@@ -1,0 +1,2045 @@
+fileFormatVersion: 2
+guid: 9929b6bdcebde4180b572e6abc6f9358
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8379551730787116558
+    second: SeekPng.com_explosions-png_936091_0
+  - first:
+      213: -4337611404283952359
+    second: SeekPng.com_explosions-png_936091_1
+  - first:
+      213: -7114078918499364479
+    second: SeekPng.com_explosions-png_936091_2
+  - first:
+      213: -7544216945179853856
+    second: SeekPng.com_explosions-png_936091_3
+  - first:
+      213: -3014066390031014889
+    second: SeekPng.com_explosions-png_936091_4
+  - first:
+      213: 3786974930490915854
+    second: SeekPng.com_explosions-png_936091_5
+  - first:
+      213: -8601493490745814137
+    second: SeekPng.com_explosions-png_936091_6
+  - first:
+      213: 8172578394199851654
+    second: SeekPng.com_explosions-png_936091_7
+  - first:
+      213: 542983118738814559
+    second: SeekPng.com_explosions-png_936091_8
+  - first:
+      213: -4699132191821699095
+    second: SeekPng.com_explosions-png_936091_9
+  - first:
+      213: -4508322157522935060
+    second: SeekPng.com_explosions-png_936091_10
+  - first:
+      213: 8477778693582249339
+    second: SeekPng.com_explosions-png_936091_11
+  - first:
+      213: 2005385547528597821
+    second: SeekPng.com_explosions-png_936091_12
+  - first:
+      213: -7548020539915332021
+    second: SeekPng.com_explosions-png_936091_13
+  - first:
+      213: -3213373873134016874
+    second: SeekPng.com_explosions-png_936091_14
+  - first:
+      213: -5185091620853829699
+    second: SeekPng.com_explosions-png_936091_15
+  - first:
+      213: -6510442617075854134
+    second: SeekPng.com_explosions-png_936091_16
+  - first:
+      213: -622381225889372166
+    second: SeekPng.com_explosions-png_936091_17
+  - first:
+      213: 4570075662743497069
+    second: SeekPng.com_explosions-png_936091_18
+  - first:
+      213: -5905448044565524485
+    second: SeekPng.com_explosions-png_936091_19
+  - first:
+      213: 4911712111397333887
+    second: SeekPng.com_explosions-png_936091_20
+  - first:
+      213: 8911871448214019776
+    second: SeekPng.com_explosions-png_936091_21
+  - first:
+      213: 8055366516253353365
+    second: SeekPng.com_explosions-png_936091_22
+  - first:
+      213: -1596338560829668185
+    second: SeekPng.com_explosions-png_936091_23
+  - first:
+      213: -7921613954440705019
+    second: SeekPng.com_explosions-png_936091_24
+  - first:
+      213: 221382034394103802
+    second: SeekPng.com_explosions-png_936091_25
+  - first:
+      213: -679776553152643463
+    second: SeekPng.com_explosions-png_936091_26
+  - first:
+      213: 5174972827123627312
+    second: SeekPng.com_explosions-png_936091_27
+  - first:
+      213: -5468766237499547607
+    second: SeekPng.com_explosions-png_936091_28
+  - first:
+      213: 700890707092748891
+    second: SeekPng.com_explosions-png_936091_29
+  - first:
+      213: 4882606254790825082
+    second: SeekPng.com_explosions-png_936091_30
+  - first:
+      213: -4243456849066961906
+    second: SeekPng.com_explosions-png_936091_31
+  - first:
+      213: -5309605433537087451
+    second: SeekPng.com_explosions-png_936091_32
+  - first:
+      213: 8190808557179874552
+    second: SeekPng.com_explosions-png_936091_33
+  - first:
+      213: 4084049737637230707
+    second: SeekPng.com_explosions-png_936091_34
+  - first:
+      213: 7489170155373823654
+    second: SeekPng.com_explosions-png_936091_35
+  - first:
+      213: -3426748755027275782
+    second: SeekPng.com_explosions-png_936091_36
+  - first:
+      213: 1074534962170831122
+    second: SeekPng.com_explosions-png_936091_37
+  - first:
+      213: 2198223074866482613
+    second: SeekPng.com_explosions-png_936091_38
+  - first:
+      213: -6638045539937162483
+    second: SeekPng.com_explosions-png_936091_39
+  - first:
+      213: -4982488750060659914
+    second: SeekPng.com_explosions-png_936091_40
+  - first:
+      213: -2955517972306136189
+    second: SeekPng.com_explosions-png_936091_41
+  - first:
+      213: 3113526647370164417
+    second: SeekPng.com_explosions-png_936091_42
+  - first:
+      213: 1103461679159659426
+    second: SeekPng.com_explosions-png_936091_43
+  - first:
+      213: -542455808291479749
+    second: SeekPng.com_explosions-png_936091_44
+  - first:
+      213: 6720510288481659541
+    second: SeekPng.com_explosions-png_936091_45
+  - first:
+      213: -6444146352973998086
+    second: SeekPng.com_explosions-png_936091_46
+  - first:
+      213: -6179174326732897370
+    second: SeekPng.com_explosions-png_936091_47
+  - first:
+      213: -2102389283044852700
+    second: SeekPng.com_explosions-png_936091_48
+  - first:
+      213: -8406978293155574394
+    second: SeekPng.com_explosions-png_936091_49
+  - first:
+      213: 2112313097362228621
+    second: SeekPng.com_explosions-png_936091_50
+  - first:
+      213: 2900023633560312708
+    second: SeekPng.com_explosions-png_936091_51
+  - first:
+      213: -5762657273831912481
+    second: SeekPng.com_explosions-png_936091_52
+  - first:
+      213: -4612390762103387488
+    second: SeekPng.com_explosions-png_936091_53
+  - first:
+      213: -325591097428422002
+    second: SeekPng.com_explosions-png_936091_54
+  - first:
+      213: 1006609294300065742
+    second: SeekPng.com_explosions-png_936091_55
+  - first:
+      213: -8616035282882073388
+    second: SeekPng.com_explosions-png_936091_56
+  - first:
+      213: -5382515358753830505
+    second: SeekPng.com_explosions-png_936091_57
+  - first:
+      213: -7086252533437085781
+    second: SeekPng.com_explosions-png_936091_58
+  - first:
+      213: -6922801494255073520
+    second: SeekPng.com_explosions-png_936091_59
+  - first:
+      213: 7129704835869219448
+    second: SeekPng.com_explosions-png_936091_60
+  - first:
+      213: 4029946106163654216
+    second: SeekPng.com_explosions-png_936091_61
+  - first:
+      213: -9187717920396747606
+    second: SeekPng.com_explosions-png_936091_62
+  - first:
+      213: 1552136872657584213
+    second: SeekPng.com_explosions-png_936091_63
+  - first:
+      213: -52415790216828494
+    second: SeekPng.com_explosions-png_936091_64
+  - first:
+      213: 2598063722005763485
+    second: SeekPng.com_explosions-png_936091_65
+  - first:
+      213: -6505964240351712289
+    second: SeekPng.com_explosions-png_936091_66
+  - first:
+      213: 5237643567878327605
+    second: SeekPng.com_explosions-png_936091_67
+  - first:
+      213: 7940040012638694658
+    second: SeekPng.com_explosions-png_936091_68
+  - first:
+      213: -7138939974325735628
+    second: SeekPng.com_explosions-png_936091_69
+  - first:
+      213: -6422608652059827076
+    second: SeekPng.com_explosions-png_936091_70
+  - first:
+      213: -2564378391306887076
+    second: SeekPng.com_explosions-png_936091_71
+  - first:
+      213: 2045419164750845293
+    second: SeekPng.com_explosions-png_936091_72
+  - first:
+      213: -6719040265999118802
+    second: SeekPng.com_explosions-png_936091_73
+  - first:
+      213: -8818991811746710841
+    second: SeekPng.com_explosions-png_936091_74
+  - first:
+      213: 4784194703095534639
+    second: SeekPng.com_explosions-png_936091_75
+  - first:
+      213: 9058747063741739475
+    second: SeekPng.com_explosions-png_936091_76
+  - first:
+      213: -2117177251462669463
+    second: SeekPng.com_explosions-png_936091_77
+  - first:
+      213: -3079332543998080771
+    second: SeekPng.com_explosions-png_936091_78
+  - first:
+      213: 4802733898563494860
+    second: SeekPng.com_explosions-png_936091_79
+  - first:
+      213: -6745578983189861219
+    second: SeekPng.com_explosions-png_936091_80
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1308
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9bca560b91124fe4893d7d13083ab57
+      internalID: 8379551730787116558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_1
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 1307
+        width: 157
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ca17d77c14c14940a4c53200713959b
+      internalID: -4337611404283952359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_2
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1306
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ae1b2c62b8ee427cb280338db58118c
+      internalID: -7114078918499364479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_3
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1306
+        width: 159
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f86caa92554fa4054b6045c4310abe46
+      internalID: -7544216945179853856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_4
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1306
+        width: 159
+        height: 164
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef09eb838434e44349c71477ad559afb
+      internalID: -3014066390031014889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_5
+      rect:
+        serializedVersion: 2
+        x: 1340
+        y: 1306
+        width: 160
+        height: 171
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de39915440e545e0a00836ff5b01cd5
+      internalID: 3786974930490915854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 1306
+        width: 161
+        height: 177
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0108f4d2b91f1424e9591a2d527cb5cc
+      internalID: -8601493490745814137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_7
+      rect:
+        serializedVersion: 2
+        x: 1845
+        y: 1305
+        width: 171
+        height: 182
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73469e670bd07415798caccf786e97a1
+      internalID: 8172578394199851654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_8
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 1036
+        width: 201
+        height: 203
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdf70346333554dfd80727ce07c15bdb
+      internalID: 542983118738814559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_9
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1033
+        width: 208
+        height: 208
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eead1a965735e4f6ea1a5cc3722c6f90
+      internalID: -4699132191821699095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_10
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1030
+        width: 213
+        height: 212
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce82d1c8e6818407ab6f8a602e7fcd6b
+      internalID: -4508322157522935060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_11
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1027
+        width: 218
+        height: 216
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d205f8bab3004d219584219d1da5a6a
+      internalID: 8477778693582249339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_12
+      rect:
+        serializedVersion: 2
+        x: 1555
+        y: 1025
+        width: 223
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ca615d7490f84c0ba6c437992bb6a8c
+      internalID: 2005385547528597821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_13
+      rect:
+        serializedVersion: 2
+        x: 1808
+        y: 1023
+        width: 227
+        height: 220
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629fe39217c5c443cb66f570179e7191
+      internalID: -7548020539915332021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_14
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1238
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864a26382de6042f99897f59c0e61b9c
+      internalID: -3213373873134016874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_15
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1044
+        width: 183
+        height: 190
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76fecd80e79d347bea81123e07d867cb
+      internalID: -5185091620853829699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_16
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1039
+        width: 192
+        height: 198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c30baaf4e64e4973828068c5aff9f8e
+      internalID: -6510442617075854134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 765
+        width: 231
+        height: 225
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d0078246ffe440795d71077e903706
+      internalID: -622381225889372166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_18
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 763
+        width: 233
+        height: 228
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c858ffd19e98f4743b995fbbdb89247f
+      internalID: 4570075662743497069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_19
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 762
+        width: 235
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a02f75f77ae44808b7a043cc2498db8
+      internalID: -5905448044565524485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_20
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 761
+        width: 237
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d48358a2a4c74cdbbf487403df45b20
+      internalID: 4911712111397333887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_21
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 760
+        width: 238
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 840cdac959fc8422e9ad94064ae497a6
+      internalID: 8911871448214019776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_22
+      rect:
+        serializedVersion: 2
+        x: 1288
+        y: 759
+        width: 239
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f074b0b5bc6415198d306df0726282
+      internalID: 8055366516253353365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_23
+      rect:
+        serializedVersion: 2
+        x: 1543
+        y: 759
+        width: 240
+        height: 234
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f1dba5bfc254fb6a8c01cf3eea1f5e
+      internalID: -1596338560829668185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_24
+      rect:
+        serializedVersion: 2
+        x: 1799
+        y: 758
+        width: 240
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38c227e579c39427cae172b88de081c8
+      internalID: -7921613954440705019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_25
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 501
+        width: 242
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e023949f5f3247e09d400024d808358
+      internalID: 221382034394103802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_26
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 501
+        width: 244
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94454efe9caa40178f3c2263282a7e5
+      internalID: -679776553152643463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_27
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 500
+        width: 244
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2aeb12ca205da4ccfa4626b6d43740c6
+      internalID: 5174972827123627312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_28
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 500
+        width: 246
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c90cd9ecf094a658e5d7621b86e1af
+      internalID: -5468766237499547607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_29
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 499
+        width: 247
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4081b122a2ec848cea9677e17659880e
+      internalID: 700890707092748891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_30
+      rect:
+        serializedVersion: 2
+        x: 1283
+        y: 498
+        width: 252
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 803998feaba034485a6fadced15bd412
+      internalID: 4882606254790825082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_31
+      rect:
+        serializedVersion: 2
+        x: 1538
+        y: 498
+        width: 254
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0bb5ce82f8b64d599e9abdb94bee8e7
+      internalID: -4243456849066961906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_32
+      rect:
+        serializedVersion: 2
+        x: 1794
+        y: 497
+        width: 254
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c2a7a7d7710941c99a3550f9ed54284
+      internalID: -5309605433537087451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_33
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 241
+        width: 255
+        height: 246
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ea7fd8f31a854f04bdfb1d4435cca7a
+      internalID: 8190808557179874552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_34
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 240
+        width: 256
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97fa51de717ca4a47b971ff8f6bd9a50
+      internalID: 4084049737637230707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_35
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 240
+        width: 256
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524611ac4c8ae4d15a43f3c7cb33fbc5
+      internalID: 7489170155373823654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 240
+        width: 251
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ea4b32f351224701824a3a3e9971786
+      internalID: -3426748755027275782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_37
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 402
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c871a7d06541640f793eeac55d86ed25
+      internalID: 1074534962170831122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_38
+      rect:
+        serializedVersion: 2
+        x: 1016
+        y: 408
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 147872d2798c64c11b44e5e2c475b267
+      internalID: 2198223074866482613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_39
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 241
+        width: 253
+        height: 247
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf4d9e2ddd744fbd8cf0b84d087fdaa
+      internalID: -6638045539937162483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 249
+        width: 253
+        height: 239
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a20490a502c489991d741020ec742b
+      internalID: -4982488750060659914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_41
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 249
+        width: 245
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9cc6b6027864518901a361b69b26ce
+      internalID: -2955517972306136189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_42
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 250
+        width: 231
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f923bc4428b84211bb660f1b6e22e2d
+      internalID: 3113526647370164417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_43
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 0
+        width: 231
+        height: 233
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 869906a4e362d414f84eb3329f0a05a6
+      internalID: 1103461679159659426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_44
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3
+        width: 222
+        height: 224
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05ee93bc35ce743d89f5fb86bfd37c4e
+      internalID: -542455808291479749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_45
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 4
+        width: 217
+        height: 215
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b032c49488f744ab1952272ce0635706
+      internalID: 6720510288481659541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_46
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 11
+        width: 196
+        height: 207
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41d9f40082df44a2abfd007806dda65e
+      internalID: -6444146352973998086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_47
+      rect:
+        serializedVersion: 2
+        x: 1076
+        y: 180
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46e926fc41fa4003b8593b3958eb9d1
+      internalID: -6179174326732897370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_48
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 15
+        width: 190
+        height: 197
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 523995aa0e11345d4be5b88b76d781c7
+      internalID: -2102389283044852700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_49
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 181
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 358703fbc3a2243be8baf2dc7dfc6543
+      internalID: -8406978293155574394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_50
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 18
+        width: 191
+        height: 194
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af9f1312e8ef4a5a83fba50faaa25cc
+      internalID: 2112313097362228621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_51
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 182
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ae672946cab45d5972ff419b13c79f
+      internalID: 2900023633560312708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_52
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 127
+        width: 69
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0570a3fdbe694f32b5c327720819263
+      internalID: -5762657273831912481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_53
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 184
+        width: 8
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7019a8fc9732943a786d7ea219a6da74
+      internalID: -4612390762103387488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_54
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 171
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ec931f9a56b74cd3b98010cba91ee62
+      internalID: -325591097428422002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_55
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 164
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3552e05367a9543e0a783836b468d3a7
+      internalID: 1006609294300065742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_56
+      rect:
+        serializedVersion: 2
+        x: 1690
+        y: 170
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d2ada6b452184765a2f0d3be6a0ac0f
+      internalID: -8616035282882073388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_57
+      rect:
+        serializedVersion: 2
+        x: 1695
+        y: 165
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11afb6425c32e4b1786b3fb3fd35ca6d
+      internalID: -5382515358753830505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_58
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 174
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77715c6e6a04a44919ddae6451baf52a
+      internalID: -7086252533437085781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_59
+      rect:
+        serializedVersion: 2
+        x: 1890
+        y: 127
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 696b945d7416f41e58ca21dd831a200a
+      internalID: -6922801494255073520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_60
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 137
+        width: 31
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cc25062ee7ac4dd6a788a133ca9e3a7
+      internalID: 7129704835869219448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_61
+      rect:
+        serializedVersion: 2
+        x: 1947
+        y: 164
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962d74499831d4cca8c26ff48fa5b8c9
+      internalID: 4029946106163654216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_62
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 132
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d191b4354d4a45c4997ff9404b14e6e
+      internalID: -9187717920396747606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_63
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 123
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b97e145e222b4dd38dfa0568c04d490
+      internalID: 1552136872657584213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_64
+      rect:
+        serializedVersion: 2
+        x: 1906
+        y: 74
+        width: 96
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fae5179068bec4f92a4b478524da3bad
+      internalID: -52415790216828494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_65
+      rect:
+        serializedVersion: 2
+        x: 1653
+        y: 126
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 697e5ed7ef8304d43a79bb319841a395
+      internalID: 2598063722005763485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_66
+      rect:
+        serializedVersion: 2
+        x: 1909
+        y: 126
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64a8fefff473d4e45b40430c46f06bd5
+      internalID: -6505964240351712289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_67
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 101
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c75da2ded109647cdad435bb4ff59c69
+      internalID: 5237643567878327605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_68
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 49
+        width: 95
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b29b7ec1e61b4d98aa37d45dec780a1
+      internalID: 7940040012638694658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_69
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 63
+        width: 49
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7fec6edf2366447f9ea94e74abb7f51
+      internalID: -7138939974325735628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_70
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 103
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858546c65237d413fafca8aabf95fd75
+      internalID: -6422608652059827076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_71
+      rect:
+        serializedVersion: 2
+        x: 1862
+        y: 101
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475926ba54ead4fb582d66ffeb6f7821
+      internalID: -2564378391306887076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_72
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 86
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1256f4769241c4f9aac7b326077f3c62
+      internalID: 2045419164750845293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_73
+      rect:
+        serializedVersion: 2
+        x: 1717
+        y: 96
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25d515bdd3c9b4766b404db0a93e97fe
+      internalID: -6719040265999118802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_74
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 74
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67de3b47669b6492aaebc4324b65418f
+      internalID: -8818991811746710841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_75
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 77
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 855c158eb3d9148c39e8ac24bdc091be
+      internalID: 4784194703095534639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_76
+      rect:
+        serializedVersion: 2
+        x: 1870
+        y: 61
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 375eb0726f33b41c2b2c0fc96c23860f
+      internalID: 9058747063741739475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_77
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 62
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b98eec958fff420ba9ea5ee412515c9
+      internalID: -2117177251462669463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_78
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 19
+        width: 46
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64eb979f69ad243158b2cb7bd1962a6d
+      internalID: -3079332543998080771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_79
+      rect:
+        serializedVersion: 2
+        x: 1876
+        y: 55
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9ff52fabe024b3c8485150c1fb1b68
+      internalID: 4802733898563494860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SeekPng.com_explosions-png_936091_80
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 26
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f4bc56b2d97545af9c1fd86eea6a733
+      internalID: -6745578983189861219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 08a86061f3b504354a0c94ed387befbc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

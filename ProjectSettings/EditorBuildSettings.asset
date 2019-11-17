@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/_Scenes/Landing Scene.unity
+    guid: b94c0901156474f1ca31411dbdf97188
+  - enabled: 0
+    path: Assets/_Scenes/Build Scene.unity
+    guid: 309de371aea8044529b602281f2d3f47
+  - enabled: 0
+    path: Assets/_Scenes/Disaster Scene.unity
+    guid: ba035c83e256648219568078e083e6c8
+  - enabled: 0
+    path: Assets/_Scenes/Score Scene.unity
+    guid: d6302f030fadf423cb037ba558c57e3b
+  - enabled: 0
+    path: Assets/_Scenes/Weight Scene.unity
+    guid: 57709e973974e46d8b24d1f1a3263b70
+  - enabled: 0
+    path: Assets/_Scenes/UFO Landing Scene.unity
+    guid: 214cec316b98f4eb8ae1f5d4dbeeb392
+  - enabled: 0
+    path: Assets/_Scenes/UFO Build Scene.unity
+    guid: 6f046105933b54623853f08fa93fff57
+  - enabled: 0
+    path: Assets/_Scenes/UFO Disaster Scene.unity
+    guid: 7085d282bf6a6459f974dcc4948bb746
+  - enabled: 0
+    path: Assets/_Scenes/UFO Score Scene.unity
+    guid: 495bfcbf775b0468f842e78efddac08e
+  - enabled: 0
+    path: Assets/_Scenes/Robotic Arm Authentication Scene.unity
+    guid: ecc962fb82ac94a5b8126dcc8f1c6db7
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Landing Scene.unity
+    guid: 0c7d8d6bebcb64062a5368b3c89b3ccd
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Build Scene.unity
+    guid: 82d2b94e274c24b6b88527947c2fe019
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Disaster Scene.unity
+    guid: 9f0a3a30c132f49cfa40ca0b35824229
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Score Scene.unity
+    guid: 0be20828b612641269e08524c91d4962
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Game Over.unity
+    guid: 528fd41582f994429b92ef507d86b142
+  - enabled: 1
+    path: Assets/_Scenes/Robotic Arm Replay Scene.unity
+    guid: 550a34dcbe6464f45b06e4577f994718
+  m_configObjects: {}

@@ -1,0 +1,174 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &2193993074077523066
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 2193993074077523015}
+  - component: {fileID: 2193993074077523064}
+  - component: {fileID: 2193993074077523065}
+  - component: {fileID: 2193993074077523013}
+  - component: {fileID: 6490129893973085370}
+  - component: {fileID: 9038786224942504684}
+  - component: {fileID: 5527868687735648181}
+  - component: {fileID: 5625577253759737716}
+  m_Layer: 0
+  m_Name: GameMaster
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &2193993074077523015
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2193993074077523064
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e7d2d490c97e643ee9ffbf20bad2633f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  spawnBunnyCost: 10
+  spawnSquareCost: 5
+  spawnRectangleCost: 5
+  spawnTriangleCost: 5
+  spawnWeightCost: 10
+  eachBlockBPScore: 20
+  eachBunnyReward: 50
+  disasterDuration: 5
+  startDisasterLevel: 0
+  disasterIncreaseRatio: 0.2
+  complexRobotMovement: 0
+--- !u!114 &2193993074077523065
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6091a116eb384465eabed42de3313127, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &2193993074077523013
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6f24cbcf0e8584bddb2a35ac73b5c4d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  eachBunnyReward: 50
+  eachWeightReward: 5
+--- !u!114 &6490129893973085370
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: fe9f008b3a5d847a1b8459ced52dccb2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  warningDuration: 2
+  cannon: {fileID: 0}
+  epicenter: {fileID: 0}
+  epicenterBase: {fileID: 0}
+  hailCloud: {fileID: 0}
+  monster: {fileID: 0}
+  cannonWarning: {fileID: 0}
+  earthquakeWarning: {fileID: 0}
+  hailWarning: {fileID: 0}
+  monsterWarning: {fileID: 0}
+  warningFlashSpeed: 1
+--- !u!114 &9038786224942504684
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51349530868364e3fa6ff52de3c11edd, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5527868687735648181
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4f3b5d495b0c54cd0b0e4d9f062db9fc, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+--- !u!114 &5625577253759737716
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2193993074077523066}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f51812aa35f5645a58f1f0da5d010c97, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  levelList:
+  - _timeToCompleteLevel: 60
+    numberOfSquareBlocks: 0
+    numberOfRectangleBlocks: 0
+    numberOfTriangleBlocks: 0
+    numberOfBunnies: 0
+  - _timeToCompleteLevel: 60
+    numberOfSquareBlocks: 0
+    numberOfRectangleBlocks: 0
+    numberOfTriangleBlocks: 0
+    numberOfBunnies: 0
+  - _timeToCompleteLevel: 60
+    numberOfSquareBlocks: 0
+    numberOfRectangleBlocks: 0
+    numberOfTriangleBlocks: 0
+    numberOfBunnies: 0
+  - _timeToCompleteLevel: 60
+    numberOfSquareBlocks: 0
+    numberOfRectangleBlocks: 0
+    numberOfTriangleBlocks: 0
+    numberOfBunnies: 0
+  - _timeToCompleteLevel: 60
+    numberOfSquareBlocks: 0
+    numberOfRectangleBlocks: 0
+    numberOfTriangleBlocks: 0
+    numberOfBunnies: 0
+  blueprints: []
