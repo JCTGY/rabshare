@@ -18,23 +18,23 @@ Go to Landing Scene => Set Authentication to not active and set Canvas to active
 ```use Unity hub to open the folder```
 
 ## Outline
-Reverse Angry Bird contain five different Scene: \
+Reverse Angry Bird contain five different Scene:
 
 - Robotic Arm Landing Scene \
 Opening Scene. Contain GameMaster that control the entir game \
-lead to Build Scene / Replay Scene \
+lead to Build Scene / Replay Scene 
 
 - Robotic Arm Build Scene \
-Main scene for user control. Two robot to build houses \
+Main scene for user control. Two robot to build houses 
 
 - Robotic Arm Replay Scene \
-Replay Scene. Control the replay process \
+Replay Scene. Control the replay process 
 
 - Robotic Arm Disaster Scene \
-Disaster automatic trigger earthquake or hail \
+Disaster automatic trigger earthquake or hail 
 
 - Robotic Arm Game Over \
-Last Scene. Send feedback and trjectory to the bucket \
+Last Scene. Send feedback and trjectory to the bucket 
 
 ## Docs
 [Data transfer on WebGL](https://github.com/JCTGY/rabshare/blob/master/Data%20Transfer%20WebGL%20to%20Google%20Cloud.pdf)
