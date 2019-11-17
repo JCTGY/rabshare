@@ -1,8 +1,12 @@
 # Reverse Angry Bird
 
+## Tools & Version
 Unity Version: 2019.1.8f1
-
 Burst Version 1.1.1
+
+## Important note
+The project is set up for the WebGL. Enable to run in the Unity editor have to disable the authentication set up
+Go to Landing Scene => Set Authentication to not active and set Canvas to active
 
 ## How to use
 ```git clone ~ ``` \
