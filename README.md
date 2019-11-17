@@ -4,7 +4,7 @@
 Unity Version: 2019.1.8f1 \
 Burst Version 1.1.1 \
 Nuget: Now cannot directly download from the assets store. Can download the package at [Nuget Gallery](https://www.nuget.org/packages/Unity/)\
-ProtoBuf.Net Serialized data from .Net code to protobuf buffer serialization format by Google. More info at protobuf-net github. Can install from Nuget package or import from (https://github.com/protobuf-net/protobuf-net) \
+ProtoBuf.Net Serialized data from .Net code to protobuf buffer serialization format by Google. More info at protobuf-net github. Can install from Nuget package or import from [Protobuf-net github](https://github.com/protobuf-net/protobuf-net) \
 Firebase CLI: Firebase App and firebase storage should be install in the google cloud shell. [Firebase Hosting tutorial](https://firebase.google.com/docs/hosting/?gclid=Cj0KCQjwivbsBRDsARIsADyISJ_ZQI5y0gWzIHM76_x8tL4W4Q1FrZMr2HjFOXkfifxjHSwitOKde3waAvnKEALw_wcB)
 
 ## Important note
