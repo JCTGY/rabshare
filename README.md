@@ -17,7 +17,7 @@ Go to Landing Scene => Set Authentication to not active and set Canvas to active
 ```install correct Unity version with WebGL module``` \
 ```git clone ~ ``` \
 ```open Unity hub ``` \
-```use Unity hub to open the folder``` \ 
+```use Unity hub to open the folder```\ 
 ```compile with WebGL platform``` \
 ```deploy at firebase hosting```
 
